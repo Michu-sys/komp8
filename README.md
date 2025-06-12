@@ -28,13 +28,7 @@
       padding: 20px;
       width: 640px;
     }
-    #ad {
-      float: left;
-      width: 170px;
-      min-height: 850px;
-      padding: 10px;
-      background-color: lightgray;
-    }
+
     #footer {
       clear: both;
       background-color: black;
@@ -78,18 +72,14 @@
       <p>
      Dziś zabieram Was w podróż krok po kroku przez proces składania komputera. Niezależnie od tego, czy robisz to pierwszy raz, czy masz już jakieś doświadczenie – postaram się wszystko pokazać w prosty i przejrzysty sposób. Dowiecie się, jak poprawnie dobrać i złożyć podzespoły, zadbać o odpowiednie chłodzenie, a także uniknąć typowych błędów, które mogą utrudnić start całego zestawu.
 
-Ten materiał nie został stworzony przeze mnie, jednak mimo to pomoże Wam zrozumieć ten – z pozoru skomplikowany – proces.
-      </p>
-<p>
+Ten materiał nie został stworzony przeze mnie, jednak mimo to pomoże Wam zrozumieć ten – z pozoru skomplikowany – proces.</p>
+
 
       </div>  
     </div>
     
      <iframe width="560" height="315" src="https://www.youtube.com/embed/LuHaIzY6lOo?si=HsZU8YUYkms4fRoG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-    <div id="ad">
-      <img src="reklama.jpg" alt="Reklama">
-    </div>
  
    
     <div id="footer">
