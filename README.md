@@ -30,7 +30,7 @@
     }
     #ad {
       float: left;
-      width: 160px;
+      width: 170px;
       min-height: 850px;
       padding: 10px;
       background-color: lightgray;
@@ -81,9 +81,11 @@
 Ten materiał nie został stworzony przeze mnie, jednak mimo to pomoże Wam zrozumieć ten – z pozoru skomplikowany – proces.
       </p>
 <p>
-     <iframe width="560" height="315" src="https://www.youtube.com/embed/LuHaIzY6lOo?si=HsZU8YUYkms4fRoG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
       </div>  
     </div>
+    
+     <iframe width="560" height="315" src="https://www.youtube.com/embed/LuHaIzY6lOo?si=HsZU8YUYkms4fRoG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
     <div id="ad">
       <img src="reklama.jpg" alt="Reklama">
