@@ -17,7 +17,7 @@
       padding: 15px;
     }
 	  #ad {
-      float: left;
+      float: right;
       width: 160px;
       min-height: 850px;
       padding: 10px;
